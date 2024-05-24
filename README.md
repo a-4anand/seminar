@@ -1,7 +1,7 @@
-# Auther : Anand Kumar Dubey
-# Masters in data science student in christ university banglore
+## Auther: Anand Kumar Dubey
+## Masters in data science student in Christ University Banglore
 
-# Object Detection and Speed Calculation using YOLOv5
+# Object Detection and Speed Calculation using YOLOv8
 
 This repository contains code for detecting objects and calculating their speed using the YOLOv8 model from Ultralytics.
 
