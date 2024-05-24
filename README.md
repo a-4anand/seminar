@@ -28,7 +28,7 @@ Replace `v4.mp4` with the path to your input video and `output.avi` with the des
 
 ## Acknowledgements
 
-- YOLOv5 model: [Ultralytics](https://github.com/ultralytics/yolov5)
+- YOLOv8 model: [Ultralytics](https://github.com/ultralytics/yolov5)
 
 ## License
 
